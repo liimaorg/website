@@ -56,7 +56,7 @@ hr.star-light {
 }
 
 hr.star-primary {
-  border-color: #2c3e50;
+  border-color: #17202f;
 }
 hr.star-primary:after {
   background-color: white;
@@ -373,6 +373,24 @@ section.success a.active {
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
+}
+
+#thanks {
+  background: #17202f;
+  color: white;
+}
+#thanks .thanks-text  .thanks {
+  font-size: 2em;
+  font-weight: 500;
+  text-align: center;
+}
+#partner{
+  text-align: center;
+}
+#partner .partner-text  .partner {
+  font-size: 2em;
+  font-weight: 500;
+  text-align: center;
 }
 footer {
   color: white;
